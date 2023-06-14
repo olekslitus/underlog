@@ -9,6 +9,7 @@ Log viewer
 - categories and filers
 - get stats
 - detect loops
+- export to SQL and GraphDB formats
 - TUI view
 - GUI in browser view
 
