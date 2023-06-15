@@ -14,7 +14,8 @@ Log viewer
 - GUI in browser view
 
 ## Alternatives
-- [lnav](https://lnav.org/) @C++
+- [lnav](https://github.com/tstack/lnav) @C++
+- [angle-grinder](https://github.com/rcoh/angle-grinder) @Rust
 - [logwatch](https://ubuntu.com/server/docs/logwatch)
 - [log-analyzer-pro](https://github.com/MrCasCode/log-analyzer-pro) @Rust @dead
 - [goaccess](https://goaccess.io/)
