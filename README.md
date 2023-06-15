@@ -10,6 +10,7 @@ Log viewer
 - get stats
 - detect loops
 - export to SQL and GraphDB formats
+- merge logs
 - TUI view
 - GUI in browser view
 
