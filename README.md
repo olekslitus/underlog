@@ -9,6 +9,7 @@ Log viewer
 - categories and filers
 - get stats
 - detect loops
+- create a graph with messages
 - export to SQL and GraphDB formats
 - merge logs
 - TUI view
