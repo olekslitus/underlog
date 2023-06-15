@@ -12,6 +12,7 @@ Log viewer
 - create a graph with messages
 - provide statistics
 - export to SQL and GraphDB formats
+- filter by source
 - merge logs
 - TUI view
 - GUI in browser view
